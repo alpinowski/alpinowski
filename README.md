@@ -17,3 +17,6 @@
 - [Portfolio](https://alpkeskin.info/)  
 
 ✨ *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
