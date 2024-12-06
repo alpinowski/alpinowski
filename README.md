@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Alp Keskin  
+### Frontend Engineer | React, JavaScript, Node.js  
 
-<!--
-**alpinowski/alpinowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I specialize in crafting interactive and responsive web applications using:  
+- **React.js**, **JavaScript**, **Node.js**, **HTML**, **CSS**, and **SQL**  
 
-Here are some ideas to get you started:
+💡 Passionate about turning ideas into seamless user experiences and writing clean, maintainable code.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m always learning new technologies to enhance my skill set. Currently exploring advanced **Python** and **AI Technologies**.  
+
+🔗 **Check out my projects:**  
+- [Pet Veteriner App](https://github.com/alpinowski/PetVet)  
+- [Currency Converter App](https://github.com/alpinowski/CurrencyConverter)  
+
+📫 **Let's connect:**  
+- [LinkedIn](https://www.linkedin.com/in/alp-keskin/)  
+- [Portfolio](https://alpkeskin.info/)  
+
+✨ *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*  
