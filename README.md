@@ -9,7 +9,7 @@
 🌱 I’m always learning new technologies to enhance my skill set. Currently exploring advanced **Python** and **AI Technologies**.  
 
 🔗 **Check out my projects:**  
-- [Pet Veteriner App](https://github.com/alpinowski/PetVet)  
+- [Netflix-Clone App](https://github.com/alpinowski/netflix-clone)  
 - [Currency Converter App](https://github.com/alpinowski/CurrencyConverter)  
 
 📫 **Let's connect:**  
